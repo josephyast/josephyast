@@ -10,7 +10,7 @@ I build practical tools that move data reliably, and I'm learning to bring ML mo
 
 **Built**
 - Marketplace automation tools: data pipelines, order & inventory system (44 REST endpoints), profit reporting
-- 
+  
 **Stack:** Python · TypeScript · SQL · FastAPI · NestJS · PostgreSQL · Docker · Linux
 
 🌐 [yusufyasti.com](https://yusufyasti.com)
